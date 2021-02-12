@@ -1,6 +1,7 @@
 ## Sentiment-Analysis-Website
 
 This is an academic project to predict the sentiment of a movie review as being a negative review or positive review.
+The notebook and Python files provided here result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, XGBoost, Pytorch, and natural language processing tools such as Natural Language Toolkit (NLTK) and Beautiful Soup.
 
 ## Hardware Requirement
 This project is designed to run in the Amazon Web Services (AWS) cloud environment. 
@@ -28,7 +29,7 @@ html5lib
 The main code for this project is provided in the `SageMaker Project.ipynb` notebook file. Additional supporting files are also provided in the additional folders.
 
 ## Data
-The dataset consists of 25,000 movie reviews provide by the Internet Movie Data Base [IMDB](http://ai.stanford.edu/~amaas/data/sentiment/). 
+The dataset consists of 25,000 movie reviews provide by the Internet Movie Database [IMDb](http://ai.stanford.edu/~amaas/data/sentiment/). 
 
 ## Run
 Simply launch a Jupyter Notebook instance using AWS' SageMaker and clone this Git repository `https://github.com/Onestroke1/Sentiment-Analysis-Website.git`.
