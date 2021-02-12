@@ -31,8 +31,8 @@ The main code for this project is provided in the `SageMaker Project.ipynb` note
 The dataset consists of 25,000 movie reviews provide by the Internet Movie Data Base [IMDB](http://ai.stanford.edu/~amaas/data/sentiment/). 
 
 ## Run
-Simply launch a Jupyter Notebook instance using AWS' SageMaker and clone this Git repository. Opening the Jupyter Notebook file `SageMaker Project.ipynb`
-will walk you through each step that was done to achieve the final results. 
+Simply launch a Jupyter Notebook instance using AWS' SageMaker and clone this Git repository `https://github.com/Onestroke1/Sentiment-Analysis-Website.git`.
+Opening the Jupyter Notebook file `SageMaker Project.ipynb` will walk you through each step that was done to achieve the final results. 
 
 
 
